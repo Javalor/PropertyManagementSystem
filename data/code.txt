@@ -1,0 +1,164 @@
+Y1 Basic Reward Member
+M1 Silver Elite Member
+X1 Gold Elite Member
+P6 Platinum Elite Member
+X4 Platinum Premier Member
+X5 Platinum Five Star Member
+V1 VIP
+V2 VIP - Not to receive full package
+
+N6 REQ - King Bed
+N7 REQ - 2 Double Bed
+C1 REQ - Connecting Door
+H1 REQ - High Floor Room
+L2 REQ - Low Floor Room
+B5 REQ - Feather Free
+E1 REQ - Early Check in
+L3 REQ - Late Check out
+C2 REQ - Crib or Pack and Play
+G9 REQ - Roll In Shower
+Q1 REQ - Quiet Room
+U1 REQ - Upgrade
+N1 REQ - Near Elevator
+F2 REQ - Foam Pillows
+R4 REQ - Refrigerator
+G5 REQ - Refrigerator (Medical)
+S1 REQ - Stay Over
+B1 REQ - Balcony
+E6 REQ - Extra Towels
+T4 REQ - Turndown Service
+B4 REQ - Extra Feather Pillows
+F5 REQ - Hearing Accessible
+G7 REQ - Transfer Shower
+
+K1 GTD - King Bed
+D4 GTD - 2 Double Bed
+A5 GTD - Accessible room
+A9 GTD - Roll In Shower
+B4 GTD - Hearing Accessible
+C8 GTD - City View
+G8 GTD - Transfer Shower
+
+S3 Sign All Charges
+S4 Sign Room and Tax Only
+E5 Each Pays Own
+T5 Tax Exempt
+C7 Complementary Room
+A1 Rooms Side by Side
+I2 ID Required
+J1 First Stay
+J2 Repeat Guest
+W1 Previously Walked Guest
+C4 Concierge Level
+P8 Pet(s) in Room
+B9 No Room or  Bed Type Preference
+O2 Protect Our Little Ones
+P5 Pre-Register Guest
+C3 Called to Confirm
+S5 Split Reservation
+D8 Not a Dupe
+H9 Honeymoon Couple
+
+
+R1 Rollaway Bed
+
+R3 Red-Eye Arrival
+L4 Late Arrival
+
+M4 DO NOT - Move
+D5 DO NOT - Disturb
+D6 DO NOT - Walk
+D7 DO NOT - Display Room and Tax
+D9 DO NOT - Display Folio
+
+
+8 advance deposit pending
+C advance deposit
+9 guaranteed reservation
+5 elite check in
+4 wait status
+I in house status
+O out of house status
+D cancelled reservation
+s share status
+H house account
+7 volunteer or must walk status
+3 block/room change
+2 do not walk
+
+
+PR presidential suite
+DX deluxe suite
+AC accessible room
+CO connecting room
+BY bay view
+CV city view
+CL concierge level
+KG king bed
+HS hospitality suite
+DB double beds
+NT north tower
+SO south tower
+EX executive suite
+FM feather free room
+73 73 series, bay view, corner room, king bed
+40 40 series, city view, corner room, double bed
+A1 rooms side by side
+A4 amenity to room
+A5 accessible room
+K1 King room gtd
+P6 platinum card member
+P8 pets in room
+U1 upgrade please
+B1 req balcony
+B6 gtd bayview room
+B9 bayview rqst
+L1 req lobby level room
+L2 req low floor
+L3 req late check out
+L4 late arrival
+Q1 req quite room
+PS package selfpark
+PV package valet parking
+SP 1 self parked car
+VP 1 valet parked car
+TP 2 self parked car
+VV 2 valet parked cars
+CP comp parking
+V1 VIP
+PP E-concierge
+C1 req connecting rooms
+C2 req crib
+C4 req concierge level
+C7 complimentary room 
+H1 req high floor
+M1 silver member
+M4 do not move
+R1 req rollaway
+R2 rate change required
+D1 req direct bill
+D4 gtd two double beds
+D7 do not show rm/tax
+D9 do not disp. folio
+I2 id required
+I5 cc no swipe
+N1 req near elevator
+1N usa today
+2N wall street journal
+N6 req king bed
+N7 req 2 dbl beds
+R4 req fridge
+S1 req stay over
+S3 sign all charges
+S4 sign room and tax
+X1 gold member
+X4 platinum premier member
+E1 req early check in
+E2 no express check out
+E5 each pays own
+E9 express check in
+J1 guest's first stay
+O8 special occasion
+T3 tax exempt
+T8 req south tower
+Y1 marriott rewards member/Basic Reward Member
