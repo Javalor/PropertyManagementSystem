@@ -4,7 +4,7 @@ import javax.persistence.*;
 
 @Entity
 @SequenceGenerator(name="address", initialValue=1, allocationSize=1)
-public class Address {
+public class StreetAddress {
 
     @Id
     @GeneratedValue(generator = "address", strategy = GenerationType.SEQUENCE)
@@ -28,10 +28,10 @@ public class Address {
     @Column(length = 10)
     private String zip;
 
-    public Address() {
+    public StreetAddress() {
     }
 
-    public Address(String street, String unit, String line2, String city, String state, String zip) {
+    public StreetAddress(String street, String unit, String line2, String city, String state, String zip) {
         this.street = street;
         this.unit = unit;
         this.line2 = line2;

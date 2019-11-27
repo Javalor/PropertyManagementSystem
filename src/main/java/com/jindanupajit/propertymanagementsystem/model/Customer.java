@@ -16,30 +16,30 @@ public class Customer extends Person {
         cascade = {CascadeType.PERSIST, CascadeType.MERGE},
         orphanRemoval = true
     )
-    private Address address;
+    private StreetAddress streetAddress;
 
     public Customer() {
     }
 
-    public Customer(Firm firm, Address address) {
+    public Customer(Firm firm, StreetAddress streetAddress) {
         this.firm = firm;
-        this.address = address;
+        this.streetAddress = streetAddress;
     }
 
-    public Customer(Name name, Firm firm, Address address) {
+    public Customer(Name name, Firm firm, StreetAddress streetAddress) {
         super(name);
         this.firm = firm;
-        this.address = address;
+        this.streetAddress = streetAddress;
     }
 
     public Customer(String first, String middle, String last) {
         super(first, middle, last);
     }
 
-    public Customer(String first, String middle, String last, Firm firm, Address address) {
+    public Customer(String first, String middle, String last, Firm firm, StreetAddress streetAddress) {
         super(first, middle, last);
         this.firm = firm;
-        this.address = address;
+        this.streetAddress = streetAddress;
     }
 
     @Override
@@ -55,11 +55,11 @@ public class Customer extends Person {
         this.firm = firm;
     }
 
-    public Address getAddress() {
-        return address;
+    public StreetAddress getStreetAddress() {
+        return streetAddress;
     }
 
-    public void setAddress(Address address) {
-        this.address = address;
+    public void setStreetAddress(StreetAddress streetAddress) {
+        this.streetAddress = streetAddress;
     }
 }

@@ -2,9 +2,9 @@ package com.jindanupajit.propertymanagementsystem.model;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
-import javax.persistence.Entity;
 
-@Entity
+
+
 @Embeddable
 public class Name {
 
