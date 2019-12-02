@@ -11,13 +11,22 @@
 
 </th:block>
 <th:block th:fragment="search">
-    <form th:action="@{/backoffice/customer/process/search}" method="post">
-        <div>
-            <label >Name</label>
-
-
-        </div>
-    </form>
+    <div class="container-flex p-3">
+        <form id="search-customer" th:action="@{/backoffice/customer/process/search}" method="post">
+            <div class="row">
+                <div class="col-1"><label class="label" for="name">Name</label></div>
+                <div class="col-9">
+                <input th:replace="fragment/form :: input-text-param(name='name', initialValue='', placeHolder='Customer Name')" />
+                <script>
+                    var el = document.getElementById("name");
+                        el.maxLength=50;
+                        el.autocomplete="off";
+                        el.spellcheck=false;
+                </script></div>
+            </div>
+            <button id="submit" type="submit" role="button" class="btn btn-outline-success">Search</button>
+        </form>
+    </div>
 </th:block>
 
 </body>
